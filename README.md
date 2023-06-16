@@ -12,11 +12,6 @@ considerable amount of work and sacrifice of my free time and the reason I give
 it for free (even for commercial use) is so when you become rich and wealthy 
 you don't forget about us open-source creatures of the night. Cheers!
 
-If this project reduced your development time feel free to buy me a coffee.
-
-[![Donate](https://www.paypal.com/en_US/i/btn/x-click-but21.gif)](https://www.paypal.me/seferidis)
-
-
 ## Run an example
 
 The library is not precompiled so you have to compile it with your project. The 
