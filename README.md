@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/Pithikos/C-Thread-Pool.svg?style=svg)](https://circleci.com/gh/Pithikos/C-Thread-Pool)
-
 # C Thread Pool
 
 This is a minimal but advanced threadpool implementation.
